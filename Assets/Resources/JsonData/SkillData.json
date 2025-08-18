@@ -1,0 +1,32 @@
+[
+  {
+    "SkillCode": 0,
+    "Name": "파이어볼",
+    "CoolTime": 10,
+    "Explane": "뜨거운 불을 날린다"
+  },
+  {
+    "SkillCode": 1,
+    "Name": "맹독폭팔",
+    "CoolTime": 15,
+    "Explane": "맹독을 폭팔시켜 적에게\n 지속적인 데미지를 준다"
+  },
+  {
+    "SkillCode": 2,
+    "Name": "메테오",
+    "CoolTime": 30,
+    "Explane": "하늘에서 정의가 빗발친다"
+  },
+  {
+    "SkillCode": 3,
+    "Name": "",
+    "CoolTime": -1,
+    "Explane": "설명"
+  },
+  {
+    "SkillCode": 4,
+    "Name": "",
+    "CoolTime": -1,
+    "Explane": "설명"
+  }
+]
