@@ -3,6 +3,10 @@
 
 # 스크린샷
 
+![TitleImage](GameImage/메뉴_상점.jpg)
+![GameImage](GameImage/스킬_메테오.jpg)
+
+![Player](GameImage/캐릭터_스테이터스.jpg)
 
 
 # 게임 개요
